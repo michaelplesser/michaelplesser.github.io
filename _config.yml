@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Michael Plesser's personal webpage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Michael Plesser"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Michael Plesser's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://michaelplesser.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "michaelplesser/michaelplesser.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Michael_Plesser_IAS_cropped.png"
   name             : "Michael Plesser"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physicist - Rock climber - Musician"
   location         : #""
   employer         : "Penn State University"
-  uri              : "https://inspirehep.net/authors/2631007"
+  uri              : "https://michaelplesser.github.io"
   email            : "plesser(at)psu.edu" 
 
   # Academic websites
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Papers'    
   conferences:
     title: 'Conference Papers'
 
@@ -107,7 +107,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -227,6 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  climbing:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -268,6 +271,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # climbing
+  - scope:
+      path: ""
+      type: climbing
     values:
       layout: single
       author_profile: true
