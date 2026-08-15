@@ -27,7 +27,7 @@ At the end of two weeks in Yosemite climbing, living in our vans, and generally 
 
 Fast forward to **2025**. After a few summers consumed by conference travel, I finally had a gap in my schedule May/June where I could go out west. I called up Alex who was immediately in, and started discussing routes, dates, logistics, and the other million things that go into big walling. Alex had climbed the RNW of Half Dome and the Nose of el Cap already, so we settled on Salathe, hoping the opportunity for free climbing would suit me. The climb has a fearsome reputation for lots of dangerous / intimidating wide climbing, which is well-deserved. 
 
-In **January 2026** I went to Mexico to climb the 23-pitch Time Wave Zero and get some experience on longer climbs. In **May**, my wife Elena and I set out in the van for her to see the American west via the classic great American road trip. After winding through South Dakota and Wyoming, we eventually arrived in Yosemite. Elena and I had a few chill days in Yosemite (her first time) sightseeing and doing some light climbing because once Alex arrived we would just have a few days to prepare and set off.
+In **January 2026** I went to Mexico to climb the 23-pitch Time Wave Zero and get some experience on longer climbs. In **May**, my wife Elena and I set out in the van for her to see the American West via the classic great American road trip. After winding through South Dakota and Wyoming, we eventually arrived in Yosemite. Elena and I had a few chill days in Yosemite (her first time) sightseeing and doing some light climbing because once Alex arrived we would just have a few days to prepare and set off.
 
 My birthday was May 29th. On May 30th, Alex arrived. On May 31st, we packed our bags. On June 1st, we pre-hauled to heart ledges. On June 3rd, we started climbing. On June 5th, we summited. On June 6th, I was in surgery...?
 
@@ -120,7 +120,7 @@ I tied in and started climbing. I tried to use my finger as little as possible. 
 
 ![View from above the last alcove before the summit](/images/Salathe/last-alcove-view.jpg)
 
-Alex took us up the last two pitches and we topped out around 8pm on June 4th. Elena congratulated us on the radio from the meadow far below, we flicked out headlamps on and off in her direction. 
+Alex took us up the last two pitches and we topped out around 8pm on June 5th. Elena congratulated us on the radio from the meadow far below, we flicked out headlamps on and off in her direction. 
 
 The descent off the summit is technically difficult and long, and we were exhausted. We opted to wait until morning, and slept on the summit under the canonical bivy tree.
 
