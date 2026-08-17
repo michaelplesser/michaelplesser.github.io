@@ -9,7 +9,7 @@ years: "2026"
 location: "City, Country"
 ---
 
-In 2019 I discovered a new area of Rocklands: Nardouw. COVID delayed my return to 2023, did my projects get snaked?
+In 2019 I discovered a new area of Rocklands, the best bouldering area in the world: Nardouw.
 
 Trip Report
 ======

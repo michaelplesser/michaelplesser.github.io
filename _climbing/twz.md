@@ -1,5 +1,5 @@
 ---
-title: "Conquering El Toro in Mexico - 2026"
+title: "Climbing El Toro in Mexico - 2026"
 collection: climbing
 type: ""
 permalink: /climbing/twz
