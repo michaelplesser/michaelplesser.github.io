@@ -1,5 +1,5 @@
 ---
-title: "Climbing El Toro in Mexico - 2026"
+title: "Riding Time Wave Zero - 2026"
 collection: climbing
 type: ""
 permalink: /climbing/twz

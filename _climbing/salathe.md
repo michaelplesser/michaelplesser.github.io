@@ -1,5 +1,5 @@
 ---
-title: "Climbing El Capitan - 2026"
+title: "Adventures on El Capitan - 2026"
 collection: climbing
 type: ""
 permalink: /climbing/salathe
@@ -9,7 +9,7 @@ years: "2026"
 location: "City, Country"
 ---
 
-I climbed the Salathe wall with my old friend Alex Crist, but a finger infection complicated...
+I climbed the Salathe wall with my old friend Alex Crist, but a finger infection complicated things...
 
 # Road to el Cap
 
