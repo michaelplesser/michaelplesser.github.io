@@ -9,16 +9,16 @@ years: "2026"
 location: "City, Country"
 ---
 
-I climbed the Salathe wall with my old friend Alex Crist, but a finger infection complicated things...
+In 2026 I climbed the Salathe wall with my old friend Alex Crist, but a finger infection complicated things...
 
 # Road to el Cap
 
 Considering that for most of my life I was a boulderer, the fact that I'm climbing big walls may seem a bit odd. 
 In fact, there is a very clear path that led me to el Cap. 
 
-I finished undergrad in **2019** and after 3 months in South Africa, came back the US in **September**. Living with my brother and working at the climbing gym as a routesetter and coach, I worked on my PhD applications which go out in mid-**December**. In early **2020**, COVID began to creep on the scene, closing the climbing gym and leaving me unemployed. In early **March**, while coming back from a bouldering competition in VA (where I got 2nd) my car got hit and run on the highway and was totaled. Within a week I'd bought a 2013 Ford Transit Connect van and started converting it to have a bed, lights, solar, etc. In **May**, I hit the road, heading west.
+I finished undergrad in **2019** and after 3 months in South Africa, came back the US in **September**. Living with my brother and working at the climbing gym as a routesetter and coach, I worked on my PhD applications which go out in mid-**December**. In early **2020**, COVID began to creep on the scene, closing the climbing gym and leaving me unemployed. In early **March**, while coming back from a bouldering competition in VA (where I got 2nd) my car got hit and run on the highway and was totaled. Within a week I'd bought a 2013 Ford Transit Connect van and started converting it to have a bed, lights, solar, etc, and thus began my #vanlife era. In **May**, I hit the road, heading west.
 
-My plan was to go to Wyoming. In the Wind River Range there are remote climbing areas where you can stay off the grid and see more coyotes than people. Eventually I moved on to Seattle to meet up with my brother, fix up *his* van, and then road trip and rock climb wherever we could. While there, I got my first PhD acceptance to Penn State, which I ultimately accepted! The rest of the trip had a distinctly celebratory and transitory mood. Around **July**, having won the lottery for Yosemite reservations, me and my brother took our vans and went south. We met up with my friends from undergrad, Alex and Lucy, and as two teams we climbed Snake Dyke on Half Dome together, along with a number of other smaller walls. 
+My plan was to go to Wyoming. In the Wind River Range there are remote climbing areas where you can stay off the grid and see more coyotes than people. After a while, I moved on to Seattle to meet up with my brother, fix up *his* van, and then road trip and rock climb wherever we could. While there, I got my first PhD acceptance (to Penn State), which I ultimately accepted! The rest of the trip had a distinctly celebratory and transitory mood. Around **July**, having won the lottery for Yosemite reservations, me and my brother took our vans and went south. We met up with my friends from undergrad, Alex and Lucy, and as two teams we climbed Snake Dike on Half Dome together, along with a number of other smaller walls. 
 
 At the end of two weeks in Yosemite climbing, living in our vans, and generally reveling in the freedom and beauty that defines the American West, I was thoroughly intoxicated. At the same time, being at the cusp of beginning my PhD I knew such freedom wouldn't last long, and that other things would soon take focus. This was good. I wanted to shift focus from climbing to physics, but it was a shift nonetheless. On the last day, standing in el Cap meadow, staring up at el Cap and seeing the headlamps of climbers flick on as the light faded, I imagined myself up there. This is the first time I seriously considered climbing el Cap. Bouldering fitness is hard to maintain while doing a PhD, but maybe big walls were another thing altogether...
 
@@ -29,7 +29,7 @@ Fast forward to **2025**. After a few summers consumed by conference travel, I f
 
 In **May 2026**, my wife Elena and I set out in the van for her to see the American West via the classic great American road trip. After winding through South Dakota and Wyoming, we eventually arrived in Yosemite. Elena and I had a few chill days in Yosemite (her first time) sightseeing and doing some light climbing because once Alex arrived we would just have a few days to prepare and set off.
 
-My birthday was May 29th. On May 30th, Alex arrived. On May 31st, we packed our bags. On June 1st, we pre-hauled to heart ledges. On June 3rd, we started climbing. On June 5th, we summited. On June 6th, I was in surgery...?
+My birthday was May 29th. On May 30th, Alex arrived. On May 31st, we packed our bags. On June 1st, we pre-hauled to Heart Ledges. On June 3rd, we started climbing. On June 5th, we summited. On June 6th, I was in surgery...?
 
 # Trip Report
 
@@ -43,6 +43,7 @@ The Salathe Wall is the second most famous route on el Capitan, after the Nose. 
 Most people climb the Salathe by a mix of aid and free climbing, as did we.
 
 ![Salathe to el Cap Spire Route Overlay](/images/Salathe/route-overlay.jpg)
+(The above topo only goes up to el Cap spire. The Salathe wall continues to the summit)
 
 ## The Climb:
 
@@ -67,7 +68,10 @@ Because the climb starts with low-angle traversing climbing, the common strategy
 
 ### The Rest Day and the Infamous Nut Tool
 
-On June 2nd we went around gathering any last supplies we needed like extra headlamp batteries. Me, Elena, Alex, and Carlin would meet by the Merced river in el Cap Meadow for a dinner picnic. During the afternoon, we realized that neither me nor Alex could find our nut tool -- a thin metal shim used to remove stuck gear from cracks. While not essential, we did want to bring one if we could. I volunteered to improvise one from a butter knife. All I had to do was use a power drill I had in the van to add a small hole so that we could clip the tool to our harnesses and not drop it. While inspecting my work, I ran my hand over a part of the handle where there was a metal burr, and got a shallow 1cm-long cut near the tip of my right index finger. I immediately cursed my carelessness, knowing I would have to climb with tape on my finger now which would be annoying. Whatever. I washed the wound, used some anti-biotic ointment, put a band-aid on it, and forgot about it. I went back to the meadow to prepare for our picnic.
+On June 2nd we went around gathering any last supplies we needed like extra headlamp batteries. Me, Elena, Alex, and Carlin would meet by the Merced river in el Cap Meadow for a dinner picnic. During the afternoon, we realized that neither me nor Alex could find our nut tool -- a thin metal shim used to remove stuck gear from cracks. While not essential, we did want to bring one if we could. I volunteered to improvise one from a butter knife. All I had to do was use a power drill I had in the van to add a small hole so that we could clip the tool to our harnesses and not drop it. While inspecting my work, I ran my hand over a part of the handle where there was a metal burr, and got a shallow 1cm-long cut near the tip of my right index finger. I immediately cursed my carelessness, knowing I would have to climb with tape on my finger now which would be annoying. Whatever. I washed the wound, used some anti-biotic ointment, put a band-aid on it, and forgot about it. I went back to the meadow to prepare for our picnic. We took this group photo.
+
+![Group photo](/images/Salathe/meadow-group-pic.jpg)
+(Left-to-right: Carlin, me, Elena, Alex)
 
 ### Climbing Day 1
 
@@ -110,9 +114,15 @@ At this point my finger was starting to become a serious concern. As I ascended 
 
 I told Alex that morning that my finger wasn't so good and that I might not be able to lead many pitches today. No problem.
 
-On the first pitch of the day, Alex missed a turning point in the route, requiring some mild shenanigans to reverse. We continued on to the base of the Salathe Roof (see picture below, look for our shadows and ropes!). This imposing horizontal roof is one of the most exposed sections of the climb, you have ~3000' feet of thin air beneath your heels, and anything you drop would fall for almost 15 secconds before hitting the ground (neglecting air resistance, of course. This is a physics page.). After this are the stunning Headwall pitches, a veneer of orange granite thinly split by a seam offering just enough to climb. These are the hardest pitches of aid climbing on the route, and Alex being our aid-maestro was happy to dispatch them with style. We arrived at Long ledge, the last stopping point a mere four pitches from the summit. We did in the end find many gallons of stashed water here, but now it was somewhat too late to make a difference. 
+![View from high up!](/images/Salathe/high-up.jpg)
+
+On the first pitch of the day, Alex missed a turning point in the route, requiring some mild shenanigans to reverse. We continued on to the base of the Salathe Roof. This imposing horizontal roof is one of the most exposed sections of the climb, you have ~3000' feet of thin air beneath your heels, and anything you drop would fall for almost 15 secconds before hitting the ground (neglecting air resistance). After this are the stunning Headwall pitches, a veneer of orange granite thinly split by a seam offering just enough to climb. These are the hardest pitches of aid climbing on the route, and Alex being our aid-maestro was happy to dispatch them with style. Look carefully at the picture below for our shadows and our rope at the edge of the roof!
 
 ![Picture of us climbing the roof and headwall, taken from the meadow through binoculars](/images/Salathe/headwall.jpg)
+
+We arrived at Long Ledge, the last stopping point a mere four pitches from the summit, which was getting blasted by the sun. We did find many gallons of stashed water here, but now it was somewhat too late to make a difference in our decision making.
+
+![Picture of me "resting" on Long Ledge](/images/Salathe/long-ledge.jpg)
 
 To get off Long ledge, there are two options. A dangerous aid climb option, or a safe but harder free climbing option. We always intended to opt for the free climbing option. If Alex was our aid-maestro, I was the free-maestro. But circumstances being what they were, Alex tried first. He got out to the first bolt, and started looking for aid placements. He got in a black totem. Still 10' to the next bolt. Hmmmm... "Michael, I think you need to give it a shot". He was fried from carrying us all day. We had no other options, so close to the top we couldn't reasonably turn around. I put on my shoes and mentally prepared, "I'm gonna have to go full Tommy Caldwell on it". Google him if you don't get it.
 
@@ -120,7 +130,7 @@ I tied in and started climbing. I tried to use my finger as little as possible. 
 
 ![View from above the last alcove before the summit](/images/Salathe/last-alcove-view.jpg)
 
-Alex took us up the last two pitches and we topped out around 8pm on June 5th. Elena congratulated us on the radio from the meadow far below, we flicked out headlamps on and off in her direction. 
+Alex took us up the last two pitches and we topped out around 8pm on June 5th. Elena congratulated us on the radio from the meadow far below, we flicked our headlamps on and off in her direction. 
 
 The descent off the summit is technically difficult and long, and we were exhausted. We opted to wait until morning, and slept on the summit under the canonical bivy tree.
 
@@ -161,7 +171,7 @@ I don't regret the climb, and I don't think we made mistakes that led to this ou
 Here is a video made by Alex about the climb: 
 [![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=ryKTPy28h4M)
 <details>
-<summary>TW: graphic photos of the finger (not for the weak of heart)</summary>
+<summary>TW: graphic photos of the finger (not for the faint of heart)</summary>
 <img src="{{site.url}}/images/Salathe/bandaged.jpg">
 <img src="{{site.url}}/images/Salathe/blisters.jpg">
 <img src="{{site.url}}/images/Salathe/stitches.jpg">
